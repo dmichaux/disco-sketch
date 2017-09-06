@@ -11,10 +11,10 @@ body {
   border-radius: 3px;
   background-color: lightgray;
   position: absolute;
-  top: 25%;
+  top: 20%;
   left: 0;
   width: 120px;
-  height: 50%;
+  height: 60%;
   display: flex;
   flex-flow: column;
   justify-content: center;
@@ -62,7 +62,6 @@ body {
 }
 
 .grid-row {
-  padding: 1px;
   width: 100%;
   height: 100%;
   display: flex;
@@ -73,7 +72,6 @@ body {
 .box {
   box-sizing: border-box;
   border:1px solid gray;
-  border-radius: 2px;
   width: 100%;
   height: 100%;
 }
